@@ -10,8 +10,8 @@ const duolingo = [{
     fluency: 15%
   }, {
     date: 2017-02-14
-    points: 0
-    fluency: 0%
+    points: 235
+    fluency: 20%
   }, {
     date: 2017-02-15
     points: 0
